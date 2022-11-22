@@ -17,4 +17,11 @@
 
   ## Ссылка на проект:
 
-  
+  * основная страница:
+  * https://natasolt.github.io/Kinomonster
+
+  * страница show:
+  * https://natasolt.github.io/Kinomonster/show
+
+  * страница контакты:
+  * https://natasolt.github.io/Kinomonster/contact
