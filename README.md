@@ -17,14 +17,4 @@
 
   ## Ссылка на проект:
 
- основная страница:<br>
-  https://natasolt.github.io/Kinomonster<br>
-
- страница films:<br>
-  https://natasolt.github.io/Kinomonster/films<br> 
-
-  страница show:<br>
-  https://natasolt.github.io/Kinomonster/show<br>
-
-  страница контакты:<br>
-  https://natasolt.github.io/Kinomonster/contact<br>
+  https://natasolt.github.io/Kinomonster
